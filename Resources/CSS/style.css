@@ -45,13 +45,34 @@ width: 750px;
 }
 
 
-a {
+a, a:visited {
+
+color: black;
 
 Margin: 0 auto;
 
 text-align: center;
 
 Width: 750px;
+
+text-decoration: none;
+
+}
+
+.TabCon {
+
+background-color: rgb(240, 251, 114);    
+padding-top: 10px;
+padding-right: 15px;
+Padding-left: 15px;
+padding-bottom: 10px;
+
+
+}
+
+.TabCon:hover {
+
+background-color: rgb(244, 249, 174);
 
 
 }
