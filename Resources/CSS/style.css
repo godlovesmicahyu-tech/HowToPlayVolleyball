@@ -81,3 +81,21 @@ background-color: rgb(244, 249, 174);
 
 
 }
+
+div.OrderedList {
+
+
+text-align: center;
+
+
+
+}
+
+ol.List {
+
+display: inline-block;
+
+text-align: left;
+
+
+}
